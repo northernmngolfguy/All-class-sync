@@ -1,0 +1,19 @@
+body{
+    
+    background-color: dimgrey;
+    }
+h1{
+    color:#ff0000;
+}
+p {
+    color: crimson;
+}
+.none {
+    color: blue;
+}
+#under21 {
+    background-color: cyan;
+    color: yellow;
+    border: 3px dotted
+        
+}
